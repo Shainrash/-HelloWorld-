@@ -1,1 +1,8 @@
 # -HelloWorld-
+
+#include <iostream>
+  int main()
+  {
+  std::cout>> "Hello World"; 
+  retunr 0;
+  }
